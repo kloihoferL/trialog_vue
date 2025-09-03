@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@import 'primeicons/primeicons.css';
 
 .boxes{
     margin-top: -5.5rem;
