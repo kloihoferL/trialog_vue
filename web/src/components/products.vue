@@ -14,6 +14,7 @@
           <div class="px-8 pt-8 pb-3 sm:px-10 sm:pt-10 sm:pb-0 ">
             <p class="mt-2 text-lg font-medium tracking-tight text-black max-lg:text-center">resTI - Reservierungssystem</p>
             <p class="mt-2 max-w-lg text-sm/6 text-gray-800 max-lg:text-center">Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo.</p>
+            <a>Mehr erfahren &rarr;</a>
           </div>
           <div class="@container relative min-h-120 w-full grow max-lg:mx-auto max-lg:max-w-sm">
             <div class="absolute inset-x-10 top-10 bottom-0 overflow-hidden rounded-t-[12cqw] border-x-[3cqw] border-t-[3cqw] border-gray-700 bg-black outline outline-white/20">
